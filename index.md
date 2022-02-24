@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## I am trying to make a static site lol
 
 You can use the [editor on GitHub](https://github.com/proboscis-operator/proboscis-operator.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
